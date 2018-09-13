@@ -490,7 +490,7 @@
 								
 								</p></figcaption>
 								 <div class="image_container">
-								<img src="img/large/Vier-Nev-haste-Art-Illustration-Multistable-Perception-Optical-Illusion.jpg" alt="img01" class="Vier-Nev-haste-Art-Illustration-Multistable-Perception-Optical-Illusion"/>
+								<img src="img/large/Vier-Nev-haste-Art-Illustration-Multistable-Perception-Optical-Illusion.jpg" alt="Vier-Nev-haste-Art-Illustration-Multistable-Perception-Optical-Illusion" class="rotate"/>
 							</div></figure><div class="rotate_warning">Click the image to rotate</div></li>
 						
 						<li><figure><figcaption>
@@ -1166,7 +1166,7 @@
 	
 	 $("#rotate_circle").hide();
 	
-	
+	if($(window).width() > 960){
 $('.rotate').hover(
   function () {
     $("#rotate_circle").fadeIn();
@@ -1183,7 +1183,7 @@ $('.rotate').hover(
   function () {
     $("#rotate_circle").fadeOut();
   }
-);  
+);  }; 
 	
 	function map (num, in_min, in_max, out_min, out_max) {
   return (num - in_min) * (out_max - out_min) / (in_max - in_min) + out_min;
