@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+		<title>About - Vier Nev</title>
+		
+		<meta name="description" content="Vier Nev is a portuguese multidisciplinary artist. Their visual body of work is characterized by images with multiple meanings, immersive VR experiences and artistic exploration of emerging technologies. ">
+		<meta name="author" content="Vier Nev">
+		<link rel="apple-touch-icon" sizes="57x57" href="img/favicon/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="img/favicon/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="img/favicon/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="img/favicon/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="img/favicon/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="img/favicon/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="img/favicon/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="img/favicon/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="img/favicon/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="img/favicon/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="img/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="img/favicon/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="img/favicon/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="img/favicon/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+	
+		<link rel="stylesheet" type="text/css" href="css/component.css" />
+		<script src="js/modernizr.custom.js"></script>
+	</head>
+<body class="grey_body">
+<div id="logo_all">
+	<div id="logo_container2"> 
+	
+	<img src="img/logo/logo_up.svg" id="logo" >
+	
+	</div>
+	
+	
+	<div id="logo_shadow_container2"> 
+	
+	<img src="img/logo/logo_shadow.svg" id="logo_shadow" >
+	
+	
+	
+	</div>
+</div>
+<div id="menu">
+	
+	
+  <div id="menu_work"><a href="index.html#portfolio">work</a></div>
+	
+	<svg height="2vw" width="20vw"  id="menu_line_work_container">
+  <line id="menu_line_work" x1="0" y1="0" x2="20vw" y2="0" /></svg>
+	
+	<div id="menu_about"><a href="about.html">about</a></div>
+	
+	<svg height="2vw" width="20vw"  id="menu_line_about_container">
+  <line id="menu_line_about" x1="0" y1="0" x2="20vw" y2="0" /></svg>
+		
+		
+	</div>
+	
+	<div id="about_text_container">
+		
+			<div id="socialmedia_container2">
+			<img src="img/icon/insta.svg" class="socialmedia_icon" id="instagram_viernev" />
+			<img src="img/icon/face.svg" class="socialmedia_icon" id="facebook_viernev"/>
+			<img src="img/icon/twitter.svg" class="socialmedia_icon" id="twitter_viernev"/>
+			  </div>
+			  
+			  	 <svg height="3" width="15vw">
+  <line x1="0" y1="0" x2="15vw" y2="0" style="stroke:#B6B6FC;stroke-width:3" />
+</svg>
+		
+			  
+			 <h1>Vier Nev is a portuguese multidisciplinary artist.</h1>
+			 
+			 <h2><p>Their visual body of work is characterized by images with multiple meanings (<em>multistable perception</em>), high contrast and a careful use of shape and color. </p><p></p><p>
+
+Nev aims at creating experiences that explore the artistic potential of emerging technologies, with a particular interest in Virtual Reality.</p>  </h2>
+			 
+			 <div id="viernev_email">viernevart@gmail.com</div>
+			 
+			 <svg height="3" width="12vw">
+  <line x1="0" y1="0" x2="12vw" y2="0" style="stroke:#7B7BFF;stroke-width:3" />
+</svg>
+			 
+		
+	</div>
+	
+<script src="js/imagesloaded.pkgd.min.js"></script>
+		<script src="js/masonry.pkgd.min.js"></script>
+		<script src="js/classie.js"></script>
+		<script src="js/cbpGridGallery.js"></script>
+		<script src="js/jquery-3.3.1.min.js"></script>
+		<script type="text/javascript" src="js/vanilla-tilt.js"></script>
+		
+		<script>
+			new CBPGridGallery( document.getElementById( 'grid-gallery' ) );
+		</script>
+</body>
+</html>
+
+
+
+<script>
+	$(document).ready(function() {
+		
+		
+		$("#menu").css({"opacity":"0.8"});
+	$("#logo_all").css({"height":"0"});
+		
+	/*ROTATE IMAGESS
+	*/
+	
+	$(".rotate").click(function () {
+    $(this).toggleClass("down");
+})
+	
+	
+	/*SHADOW LOGO*/
+	
+	$( document ).on( "mousemove", function( event ) {
+		
+		
+		$("#logo_shadow").css({
+			"transform": "skewX("+map(event.pageX,0,$(window).width(),50,0)+"deg) ",
+			"-webkit-transform": "skewX("+map(event.pageX,0,$(window).width(),50,0)+"deg) ",
+			"-ms-transform": " skewX("+map(event.pageX,0,$(window).width(),50,0)+"deg)"
+			
+			
+		});
+		
+		if(event.pageX >$(window).width()/2 ){
+			
+			$("#logo_shadow").css({
+			
+			"left":map(event.pageX,0,$(window).width(),45,40)+"%"
+		});
+			} 
+		else if(event.pageX >$(window).width()/4 ){
+			
+			$("#logo_shadow").css({
+			
+			"left":map(event.pageX,0,$(window).width(),46.5,38.2)+"%"
+		});
+			
+		}
+		
+		else {
+			
+				$("#logo_shadow").css({
+			
+			"left":map(event.pageX,0,$(window).width(),46.6,37.1)+"%"
+		});
+			
+			}
+		
+			
+		
+		
+});
+	
+
+
+    
+	
+	function map (num, in_min, in_max, out_min, out_max) {
+  return (num - in_min) * (out_max - out_min) / (in_max - in_min) + out_min;
+}
+	
+
+	
+	
+ 
+		
+		
+		document.getElementById("logo").setAttribute('onclick', 'location.href = "index.html"'); 
+		
+		document.getElementById("logo_shadow").setAttribute('onclick', 'location.href = "index.html"'); 
+		
+		
+	/*	social media links*/
+		document.getElementById("instagram_viernev").setAttribute('onclick', 'location.href = "https://www.instagram.com/viernev/"'); 
+		
+		document.getElementById("facebook_viernev").setAttribute('onclick', 'location.href = "https://www.facebook.com/vier.nev"'); 
+		
+		document.getElementById("twitter_viernev").setAttribute('onclick', 'location.href = "https://www.twitter.com/vier_nev"'); 
+		
+		
+		
+});
+
+
+	
+	
+</script>
