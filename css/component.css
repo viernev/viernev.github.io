@@ -294,7 +294,7 @@ transition: all 2s;
 }
 
 .slideshow figcaption p {
-	font-weight: 400;
+	font-weight: 300;
 	color: #7F7FB5;
 	width: 50%;
 	min-width: 300px;
