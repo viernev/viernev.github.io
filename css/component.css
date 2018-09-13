@@ -1320,7 +1320,7 @@ transition: all 1s;
 #darcria_logo{
 	width: 20vw;
 	z-index: 1;
-	top: 520vw;
+	top: 540vw;
 	left: 40vw;
 	margin-bottom: 40vw;
 
@@ -1329,7 +1329,7 @@ transition: all 1s;
 /*ABOUT*/
 
 #about_text_container{
-	width: 90vw;
+	width: 70vw;
 	position: absolute;
 	height: 90vh;
 	left: 0vw;
@@ -1360,7 +1360,7 @@ transition: all 1s;
 }
 
 #socialmedia_container2{
-	width: 90vw;
+	width: 40vw;
 	position: fixed;
 	top: 6vw;
 	left: 45vw;
