@@ -1331,7 +1331,7 @@ transition: all 1s;
 #about_text_container{
 	width: 70vw;
 	position: absolute;
-	height: 70vh;
+	height: 80vh;
 	left: 0vw;
 	top: 0vh;
 	padding: 10vw;
