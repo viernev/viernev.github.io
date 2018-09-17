@@ -1093,6 +1093,14 @@ a:active.dark {
 /* Example media queries (reduce number of columns and change slideshow layout) */
 
 @media screen and (max-width: 60em) {
+	
+	#loader{
+	opacity:0;
+		width: 0;
+		height: 0;
+}
+
+	
 	/* responsive columns; see "Element sizing" on http://masonry.desandro.com/options.html */
 	.grid li {
 		width: 33.3%;
