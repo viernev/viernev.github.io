@@ -67,15 +67,15 @@
 	<div id="sensor_work"></div>
 	<div id="work_back"></div>
 	
-	<svg height="2vw" width="7vw"  id="line_work_back">
-  <line x1="0" y1="0" x2="7vw" y2="0" style="stroke:white;stroke-width:2vh"/></svg>
-	
+    
+    <object data="img/icon/line_white_thick.svg" type="image/svg+xml" id="line_work_back" style="height:2vw; width:7vw;"></object>
+    
 	
 	
 	<div id="work">work</div>
 	
-<svg height="2vw" width="20vw"  id="line_work_container">
-  <line id="line_work" x1="0" y1="0" x2="20vw" y2="0" /></svg>
+  
+   <object data="img/icon/line_black_thin.svg" type="image/svg+xml" style="height:2vw; width:20vw;" id="line_work_container"></object>
 	
 	
 	</div>
@@ -85,17 +85,19 @@
 	<div id="sensor_about"></div>
 	<div id="about_back"></div>
 	
-	<svg height="2vw" width="7vw"  id="line_about_back">
-  <line x1="0" y1="0" x2="7vw" y2="0" style="stroke:white;stroke-width:2vh"/></svg>
+	 <object data="img/icon/line_white_thick.svg" type="image/svg+xml" style="height:2vw; width:7vw;" id="line_about_back"></object>
+	
+
 	
 	
 	
 	
 	<div id="about">about</div>
 	
-	<svg height="2vw" width="20vw"  id="line_about_container">
-  <line id="line_about" x1="0" y1="0" x2="20vw" y2="0" /></svg>
 	
+	
+    <object data="img/icon/line_black_thin.svg" type="image/svg+xml" style="height:2vw; width:20vw;" id="line_about_container"></object>
+    
 	</div>
 	
 	
@@ -103,13 +105,13 @@
 	
 	<div id="menu_work"><a href="#portfolio">work</a></div>
 	
-	<svg height="2vw" width="20vw"  id="menu_line_work_container">
-  <line id="menu_line_work" x1="0" y1="0" x2="20vw" y2="0" /></svg>
+     <object data="img/icon/line_black_thin.svg" type="image/svg+xml" style="height:2vw; width:20vw;" id="menu_line_work_container"></object>
+     
 	
 	<div id="menu_about"><a href="about.html">about</a></div>
 	
-	<svg height="2vw" width="20vw"  id="menu_line_about_container">
-  <line id="menu_line_about" x1="0" y1="0" x2="20vw" y2="0" /></svg>
+     <object data="img/icon/line_black_thin.svg" type="image/svg+xml" style="height:2vw; width:20vw;" id="menu_line_about_container"></object>
+     
 		
 		
 	</div>
@@ -1107,7 +1109,7 @@
 
 
 <script>
-	
+	$( document ).ready(function() {
 	/*ROTATE IMAGESS
 	*/
 	
@@ -1201,7 +1203,7 @@ $('.rotate').hover(
 	
 
 	
-	$(function() {
+
   
     $(window).scroll(function() {    
 		
@@ -1282,7 +1284,7 @@ $('.rotate').hover(
 		
 		
 		
-});
 
-	
+
+	});
 </script>
