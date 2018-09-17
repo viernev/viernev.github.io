@@ -27,6 +27,15 @@ footer{
 }
 
 
+#loader{
+	height: 100vh;
+	width: 100vw;
+	background-color: white;
+	z-index: 19;
+	position: fixed;
+	top: 0;
+}
+
 
 /* General style */
 .grid-gallery ul {
@@ -396,7 +405,7 @@ transition: all 1s;
 	position: absolute;
 	top:49.8vh;
 	left: 22.5%;
-	z-index: 7;
+	z-index: 30;
 }
 
 #logo_shadow_container2{
@@ -413,7 +422,7 @@ transition: all 1s;
 	position: relative;
    left: 40%;
 	width:30%;
-	z-index: 1;
+	z-index: 20;
 	cursor: pointer;
 	
 }
@@ -425,7 +434,7 @@ transition: all 1s;
 	width:50%;
 	height: 50vh;
 	left: 22.5%;
-	z-index: 8;
+	z-index: 31;
 	
 }
 
@@ -443,7 +452,7 @@ transition: all 1s;
 	position:absolute;
    left: 40%;
 	width:30%;
-	z-index: 2;
+	z-index: 21;
 	cursor: pointer;
 	
 }
