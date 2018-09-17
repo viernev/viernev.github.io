@@ -58,6 +58,8 @@
 	
 	</div>
 	
+	<div id="loader"></div>
+	
 	<div id="light_circle"></div>
 	</div>
 	
@@ -1109,7 +1111,10 @@
 
 <script>
 	$( document ).ready(function() {
-
+	
+		 $(window).on('load', function () {
+   $('#loader').css({"opacity": "0","z-index" : "0"})
+});
    
 
 		
