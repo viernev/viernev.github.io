@@ -545,7 +545,7 @@ transition: all 1s;
 
 #line_work_back{
 
-top: 50vh;
+top: 48vh;
 position: absolute;	
 left: 12vw;
 opacity: 0;
@@ -566,7 +566,7 @@ stroke-width:3;
 
 #line_work_container{
 
-top: 50vh;
+top: 48vh;
 position: absolute;	
 left: 19vw;
 -webkit-transition: all 1s;
@@ -586,7 +586,7 @@ stroke-width:3;
 
 #line_about_container{
 
-top: 50vh;
+top: 48vh;
 position: absolute;	
 right: 19vw;
 	-webkit-transition: all 1s;
@@ -679,7 +679,7 @@ transition: all 1s;
 
 #line_about_back{
 
-top: 50vh;
+top: 48vh;
 position: absolute;	
 right: 12vw;
 opacity: 0;
@@ -734,7 +734,7 @@ transition: all 1s;
 
 #menu_line_work_container{
 
-top: 8vh;
+top: 6vh;
 position: absolute;	
 left: 19vw;
 
@@ -753,7 +753,7 @@ stroke:white;
 
 #menu_line_about_container{
 
-top: 8vh;
+top: 6vh;
 position: absolute;	
 right: 20vw;
 
