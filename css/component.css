@@ -1,6 +1,84 @@
 
-@import url('https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i');
 
+@font-face {
+    font-family: Roboto;
+    src: url('../fonts/Roboto/Roboto-ThinItalic.ttf');
+	 font-weight: "100i";
+}
+
+
+@font-face {
+    font-family: Roboto;
+    src: url('../fonts/Roboto/Roboto-Thin.ttf');
+	 font-weight: "100";
+}
+
+
+@font-face {
+    font-family: Roboto;
+    src: url('../fonts/Roboto/Roboto-Italic.ttf');
+	 font-weight: "400i";
+}
+
+
+@font-face {
+    font-family: Roboto;
+    src: url('../fonts/Roboto/Roboto-MediumItalic.ttf');
+	 font-weight: "500i";
+}
+
+
+@font-face {
+    font-family: Roboto;
+    src: url('../fonts/Roboto/Roboto-Medium.ttf');
+	 font-weight: "500";
+}
+
+@font-face {
+    font-family: Roboto;
+    src: url('../fonts/Roboto/Roboto-BoldItalic.ttf');
+	 font-weight: "700i";
+}
+
+
+@font-face {
+    font-family: Roboto;
+    src: url('../fonts/Roboto/Roboto-Bold.ttf');
+	 font-weight: "700";
+}
+
+@font-face {
+    font-family: Roboto;
+    src: url('../fonts/Roboto/Roboto-BlackItalic.ttf');
+	 font-weight: "900i";
+}
+
+
+@font-face {
+    font-family: Roboto;
+    src: url('../fonts/Roboto/Roboto-Black.ttf');
+	 font-weight: "900";
+}
+
+@font-face {
+    font-family: Roboto;
+    src: url('../fonts/Roboto/Roboto-LightItalic.ttf');
+	 font-weight: "300i";
+}
+
+
+@font-face {
+    font-family: Roboto;
+    src: url('../fonts/Roboto/Roboto-Light.ttf');
+	 font-weight: "300";
+}
+
+
+@font-face {
+    font-family: Roboto;
+    src: url('../fonts/Roboto/Roboto-Regular.ttf');
+	 font-weight: "400";
+}
 
 body {
 	margin: 0%;
@@ -27,19 +105,7 @@ footer{
 }
 
 
-#loader{
-	height: 100vh;
-	width: 100vw;
-	background-color: white;
-	z-index: 19;
-	position: fixed;
-	top: 0;
-	
-	-webkit-transition: all 1s;
-	-moz-transition: all 1s;
-	-o-transition: all 1s;
-	transition: all 1s;
-}
+
 
 
 /* General style */
