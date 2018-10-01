@@ -1496,6 +1496,17 @@ background-image: url('../img/large/Vier-Nev-Dar-Cria-Logo-VR-Virtual-Reality-Ex
 	font-size: 12px;
 }
 	
+	
+	.grid li:hover figure img {
+	opacity: 1;
+}
+
+.grid li:hover figcaption {
+	opacity: 0;
+}
+	
+	
+	
 }
 
 @media screen and (max-width: 35em) {
