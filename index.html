@@ -1080,7 +1080,6 @@
 					<div id="socialmedia_container">
 			<img src="img/icon/insta.svg" class="socialmedia_icon" id="instagram_viernev" />
 			<img src="img/icon/face.svg" class="socialmedia_icon" id="facebook_viernev"/>
-			<img src="img/icon/twitter.svg" class="socialmedia_icon" id="twitter_viernev"/>
 			  </div>
 			  
 			  
@@ -1129,8 +1128,12 @@
     $(this).toggleClass("down");
 })
 	
-	/*SHADOW LOGO*/
 	
+	$("#rotate_circle").hide();
+		
+		
+	/*SHADOW LOGO*/
+	if ($(window).width() > 960) {
 	$( document ).on( "mousemove", function( event ) {
 		
 		
@@ -1183,10 +1186,8 @@
 		
 		
 });
-	
-	 $("#rotate_circle").hide();
-	
-	if($(window).width() > 960){
+		
+		
 $('.rotate').hover(
   function () {
     $("#rotate_circle").fadeIn();
@@ -1203,7 +1204,9 @@ $('.rotate').hover(
   function () {
     $("#rotate_circle").fadeOut();
   }
-);  }; 
+);  
+	
+	}; 
 	
 	function map (num, in_min, in_max, out_min, out_max) {
   return (num - in_min) * (out_max - out_min) / (in_max - in_min) + out_min;
@@ -1288,7 +1291,6 @@ $('.rotate').hover(
 		
 		document.getElementById("facebook_viernev").setAttribute('onclick', 'location.href = "https://www.facebook.com/vier.nev"'); 
 		
-		document.getElementById("twitter_viernev").setAttribute('onclick', 'location.href = "https://www.twitter.com/vier_nev"'); 
 		
 		
 		
