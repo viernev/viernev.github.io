@@ -1223,18 +1223,18 @@ a:active.dark {
 	
 	#logo_shadow_container,#logo_shadow_container2{
 		position: fixed;
-		width: 60%;
+		width: 40%;
 		height: 5vh;
 		top: 92vh;
-		left: 20%;
+		left: 30%;
 	}
 	
 	#logo_container,#logo_container2{
 		position: fixed;
-		width: 60%;
+		width: 40%;
 		height: 5vh;
 		top: 87vh;
-		left: 20%;
+		left: 30%;
 	}
 	
 	
@@ -1243,6 +1243,26 @@ a:active.dark {
 		height: 0vh;
 		
 	}
+	
+	#logo{
+	bottom: 0;
+	position:absolute;
+   left: 35%;
+	width:45%;
+	z-index: 21;
+	cursor: pointer;
+	
+}
+	
+	#logo_shadow{
+	position: relative;
+   left: 35%;
+	width:45%;
+	z-index: 20;
+	cursor: pointer;
+	
+}
+
 	
 	#menu{
 		opacity: 1;
@@ -1259,6 +1279,7 @@ a:active.dark {
 		text-align: center;
 		left: 12vw;	
 		top: 89vh;
+		z-index: 40;
 	}
 	
 	#menu_about{
@@ -1268,6 +1289,7 @@ a:active.dark {
 		text-align: center;
 		right: 19vw;	
 		top: 89vh;
+		z-index: 40;
 	}
 	
 	#menu_line_work_container{
@@ -1431,7 +1453,7 @@ transition: all 1s;
 #about_text_container{
 	width: 70vw;
 	position: absolute;
-	height: 90vh;
+	height: 70vh;
 	left: 0vw;
 	top: 0vh;
 	padding: 10vw;

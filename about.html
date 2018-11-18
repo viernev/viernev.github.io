@@ -22,6 +22,7 @@
 <link rel="icon" type="image/png" sizes="96x96" href="img/favicon/favicon-96x96.png">
 <link rel="icon" type="image/png" sizes="16x16" href="img/favicon/favicon-16x16.png">
 <link rel="manifest" href="/manifest.json">
+
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="msapplication-TileImage" content="img/favicon/ms-icon-144x144.png">
 <meta name="theme-color" content="#ffffff">
@@ -60,11 +61,11 @@
 <div id="menu">
 	
 	
-  <div id="menu_work"><a href="index.html#portfolio">work</a></div>
+ <a href="index.html#portfolio"> <div id="menu_work">work</div></a>
 	
  <object data="img/icon/line_black_thin.svg" type="image/svg+xml" style="height:2vw; width:20vw;" id="menu_line_work_container"></object>
 	
-	<div id="menu_about"><a href="about.html">about</a></div>
+	<a href="about.html"><div id="menu_about">about</div></a>
 	
 	<object data="img/icon/line_black_thin.svg" type="image/svg+xml" style="height:2vw; width:20vw;" id="menu_line_about_container"></object>
 		
@@ -98,16 +99,11 @@ Nev aims at creating experiences that explore the artistic potential of emerging
 		
 	</div>
 	
-<script src="js/imagesloaded.pkgd.min.js"></script>
-		<script src="js/masonry.pkgd.min.js"></script>
 		<script src="js/classie.js"></script>
-		<script src="js/cbpGridGallery.js"></script>
 		<script src="js/jquery-3.3.1.min.js"></script>
 		<script type="text/javascript" src="js/vanilla-tilt.js"></script>
 		
-		<script>
-			new CBPGridGallery( document.getElementById( 'grid-gallery' ) );
-		</script>
+	
 </body>
 </html>
 
@@ -127,7 +123,7 @@ Nev aims at creating experiences that explore the artistic potential of emerging
     $(this).toggleClass("down");
 })
 	
-	
+	if ($(window).width() > 960) {
 	/*SHADOW LOGO*/
 	
 	$( document ).on( "mousemove", function( event ) {
@@ -171,7 +167,7 @@ Nev aims at creating experiences that explore the artistic potential of emerging
 		
 });
 	
-
+};
 
     
 	
