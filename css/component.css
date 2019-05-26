@@ -970,6 +970,17 @@ background-image: url('../img/large/Vier-Nev-Dar-Cria-Logo-Virtual-Reality-Exper
 	line-height: 30px;
 }
 
+#amindsang_text{
+	z-index: 3;
+	color: white;
+	font-weight: 300;
+	font-size: 20px;
+	position: absolute;
+	width: 600px;
+	top: 50vw;
+	left: 15vw;
+	line-height: 30px;
+}
 
 .darcria_gif{
 	position: absolute;
@@ -1166,6 +1177,32 @@ a:active.dark {
 	margin-bottom: auto;
 	width: 30%;
 	text-transform: uppercase;
+}
+
+#amindsang_logo{
+	width: 30vw; 
+	top: 30vh; 
+	left: 35vw; 
+	position: absolute;	
+}
+
+#presskit_button{
+	width: 200px;
+	height: 50px;
+	top:15vh;
+	left: 0vw;
+	position: absolute;
+	color: white;
+	background-color: #9090BD;
+	padding-top: 20px;
+	padding-right: auto;
+	padding-left: auto;
+	padding-bottom: 0px;
+	text-align: center;
+	margin-top:5vh;
+	margin-right: 10vh;
+	margin-bottom: 10vh;
+	margin-left: 0px;
 }
 
 /* Example media queries (reduce number of columns and change slideshow layout) */
@@ -1439,6 +1476,18 @@ transition: all 1s;
 	
 }	
 	
+#amindsang_text{
+
+	font-weight: 300;
+	font-size: 4vw;
+	line-height: 8vw;
+	position: absolute;
+	width: 80%;
+	left: 5vw;
+	top: 60vh;
+	
+}	
+	
 #darcria_logo{
 	width: 20vw;
 	z-index: 1;
@@ -1528,6 +1577,30 @@ background-image: url('../img/large/Vier-Nev-Dar-Cria-Logo-VR-Virtual-Reality-Ex
 }
 	
 	
+	#amindsang_logo{
+	width: 70vw; 
+	top: 10vh; 
+	left: 15vw; 
+}
+	
+	#presskit_button{
+	width: 200px;
+	height: 100px;
+	top: 25vh;
+	left: 0vw;
+	position: absolute;
+	color: white;
+	background-color: #9090BD;
+	padding-top: 40px;
+	padding-right: auto;
+	padding-left: auto;
+	padding-bottom: 0px;
+	text-align: center;
+	margin-top:10vh;
+	margin-right: 10vh;
+	margin-bottom: 25vh;
+	margin-left: 0px;
+}
 	
 }
 

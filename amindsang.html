@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+		<title>Dar Cria - Vier Nev</title>
+		<meta name="description" content="Dar Cria is a VR experience, created by Vier Nev, that challenges the user's perception of the surrounding environment through the use of imagery with multiple meanings. ">
+		<meta name="author" content="Vier Nev">
+		<link rel="apple-touch-icon" sizes="57x57" href="img/favicon/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="img/favicon/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="img/favicon/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="img/favicon/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="img/favicon/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="img/favicon/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="img/favicon/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="img/favicon/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="img/favicon/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="img/favicon/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="img/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="img/favicon/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="img/favicon/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="img/favicon/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+		<link rel="stylesheet" type="text/css" href="css/component.css" />
+		
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-125820902-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-125820902-1');
+</script>
+
+</head>
+	<body class="black_body">
+	
+	
+	<div id="logo_all">
+	<div id="logo_container2"> 
+	
+	<img src="img/logo/logo_up_light.svg" id="logo" ></div>
+	
+	<div id="logo_shadow_container2"> 
+	
+	<img src="img/logo/logo_shadow.svg" id="logo_shadow" >
+	
+	</div>
+	
+	
+	<div id="menu" class="dark">
+	
+	<div id="menu_work"><a href="index.html#portfolio" class="dark">work</a></div>
+	
+	<object data="img/icon/line_white_thin.svg" type="image/svg+xml" style="height:2vw; width:20vw;" id="menu_line_work_container"></object>
+    
+	<div id="menu_about"><a href="about.html" class="dark">about</a></div>
+	
+	<object data="img/icon/line_white_thin.svg" type="image/svg+xml" style="height:2vw; width:20vw;" id="menu_line_about_container"></object>
+		
+		
+	</div>
+	</div>
+	
+	
+	
+
+
+<img src="img/amindsang/logo.svg" id="amindsang_logo">
+
+<div id="amindsang_text" >
+				<svg height="2vw" width="100%">
+  <line x1="0" y1="0" x2="40%" y2="0" style="stroke:white;stroke-width:3" />
+</svg>		
+				
+			A pregnant scientist, a couple and a cat obsessed with butterflies deal with transformation. Their memories merge into a dream-like exploration of perspective.
+			
+			<br><br>
+			
+			<a href="img/amindsang/amindsang_press_kit.pdf" download><div id="presskit_button">PRESS KIT</div></a> 
+			
+			
+		</div>
+		
+		
+	 
+
+<script src="js/jquery-3.3.1.min.js"></script>
+<script src="js/TweenMax.min.js"></script>
+<script src="js/jquery-parallax.js"></script>
+
+</body>
+</html>
+
+<script>
+	
+$(document).ready(function() {
+	
+		$("#menu").css({"opacity":"0.8"});
+	$("#logo_all").css({"height":"0"});
+	
+    
+    /* Every time the window is scrolled ... */
+    $(window).scroll( function(){
+    
+        /* Check the location of each desired element */
+        $('.darcria_gif, .darcria_text').each( function(i){
+            
+            var bottom_of_object = $(this).offset().top + $(this).outerHeight();
+            var bottom_of_window = $(window).scrollTop() + $(window).height();
+            
+            /* If the object is completely visible in the window, fade it it */
+            if( bottom_of_window > bottom_of_object ){
+                
+                $(this).animate({'opacity':'1'},500);
+				
+                    
+            }
+            
+        }); 
+    
+    });
+    
+	
+	// $fn.parallax( resistance, mouse )
+$( document ).mousemove( function( e ) {
+
+  $( '.layer1' ).parallax( 6, e );
+	 $( '.layer2' ).parallax(-6, e );
+  $( '.darcria_text' )    .parallax( -12 , e );
+	
+
+	
+
+});
+
+	
+	
+	
+		
+		document.getElementById("logo").setAttribute('onclick', 'location.href = "index.html"'); 
+		
+		document.getElementById("logo_shadow").setAttribute('onclick', 'location.href = "index.html"'); 
+		
+			
+	
+	
+	
+	
+	
+	
+	
+});
+
+
+</script>
