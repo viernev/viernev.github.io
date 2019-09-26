@@ -43,7 +43,8 @@
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "",
-    "siteUrl": "undefined"
+    "siteUrl": "undefined",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-125820902-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-125820902-1');\r\n</script>\r\n"
   },
   "pages": {
     "index.html": {
@@ -755,7 +756,7 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "Exposição de Realidade Aumentada no Porto<br>-<br>Augmented Reality Exhibition in Porto",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-secondary\" data-app-placeholder=\"Type Text\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">+ INFO</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"page3.html#info3-l\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD THE APP</a>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-secondary\" data-app-placeholder=\"Type Text\" href=\"aterraetela.html\" data-toolbar=\"-mbrBtnMove\">+ INFO</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"aterraetela.html#info3-l\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD THE APP</a>",
                 "overlayOpacity": "0.6",
                 "overlayColor": "#12113f"
               },
@@ -793,7 +794,7 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "Virtual Reality Experience",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-secondary\" data-app-placeholder=\"Type Text\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">TRAILER</a> <a data-app-btn=\"true\" class=\"btn display-4 btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">+ INFO</a> ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-secondary\" data-app-placeholder=\"Type Text\" href=\"darcria.html\" data-toolbar=\"-mbrBtnMove\">TRAILER</a> <a data-app-btn=\"true\" class=\"btn display-4 btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"darcria.html\" data-toolbar=\"-mbrBtnMove\">+ INFO</a> ",
                 "overlayOpacity": "0.6",
                 "overlayColor": "#3b0a4e"
               }
