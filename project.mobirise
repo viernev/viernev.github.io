@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Vier Nev",
-    "currentPage": "amindsang.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -38,7 +38,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 27,
+    "uniqCompNum": 21,
     "versionPublish": "4.10.8",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -774,7 +774,7 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "Animated Short Film",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">TRAILER</a> <a data-app-btn=\"true\" class=\"btn display-4 btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">+ INFO</a> ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"amindsang.html\" data-toolbar=\"-mbrBtnMove\">TRAILER</a> <a data-app-btn=\"true\" class=\"btn display-4 btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"amindsang.html\" data-toolbar=\"-mbrBtnMove\">+ INFO</a> ",
                 "overlayOpacity": "0.9",
                 "overlayColor": "#0b0149"
               },
