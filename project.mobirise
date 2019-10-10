@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Vier Nev",
-    "currentPage": "aterraetela.html",
+    "currentPage": "amindsang.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -4051,19 +4051,6 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/8a.gif",
-                "thumb": "@PROJECT_PATH@/assets/images/8a.gif",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/sequence-013310-2000x1125.png",
                 "thumb": "@PROJECT_PATH@/assets/images/sequence-013310-2000x1125-800x450.png",
                 "alt": "",
@@ -4105,19 +4092,6 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/sequence-013741-2000x1125.png",
                 "thumb": "@PROJECT_PATH@/assets/images/sequence-013741-2000x1125-800x450.png",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/sequence-014002-2000x1125.png",
-                "thumb": "@PROJECT_PATH@/assets/images/sequence-014002-2000x1125-800x450.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
