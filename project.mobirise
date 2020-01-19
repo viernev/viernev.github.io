@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Vier Nev",
-    "currentPage": "aterraetela.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -756,7 +756,7 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "Augmented Reality Exhibition in Porto",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-secondary\" data-app-placeholder=\"Type Text\" href=\"aterraetela.html\" data-toolbar=\"-mbrBtnMove\">+ INFO</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"aterraetela.html#info3-l\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD THE APP</a>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-secondary\" data-app-placeholder=\"Type Text\" href=\"aterraetela.html#header3-1i\" data-toolbar=\"-mbrBtnMove\">+ INFO</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"aterraetela.html#video2-1h\" data-toolbar=\"-mbrBtnMove\">TRAILER</a>",
                 "overlayOpacity": "0.6",
                 "overlayColor": "#12113f"
               },
