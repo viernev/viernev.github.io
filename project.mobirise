@@ -1730,19 +1730,6 @@
               },
               {
                 "tags": "Still",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise201987-131432019-8-6-3-45-33.jpg",
-                "playVideo": false,
-                "videoUrl": "https://youtu.be/kzesC2txqYk",
-                "image": "@PROJECT_PATH@/assets/images/1-6-1920x1080.png",
-                "thumb": "@PROJECT_PATH@/assets/images/1-6-1920x1080-800x450.png",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Still",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -1785,19 +1772,6 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/zzzzzzzzzzzzzzzzyzzzzzzz2dgsbczzazzzzzzzzzzx-viernev-vier-nev-art-face-optical-illusion-1920x1080.png",
-                "thumb": "@PROJECT_PATH@/assets/images/zzzzzzzzzzzzzzzzyzzzzzzz2dgsbczzazzzzzzzzzzx-viernev-vier-nev-art-face-optical-illusion-1920x1080-800x450.png",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Still",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/zzzzzzzzzzzzzzzzzzzzzzzzzgaaaaaaaaaaaaaaaaaaaa-viernev-vier-nev-art-face-optical-illusion-1920x1080.png",
                 "thumb": "@PROJECT_PATH@/assets/images/zzzzzzzzzzzzzzzzzzzzzzzzzgaaaaaaaaaaaaaaaaaaaa-viernev-vier-nev-art-face-optical-illusion-1920x1080-800x450.png",
                 "alt": "",
@@ -1826,32 +1800,6 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/zzzzzzzzzzzzzzzzzzzzzzzzzfaaaaaaaaaaaaaaa2-viernev-vier-nev-art-face-optical-illusion-1920x3000.png",
                 "thumb": "@PROJECT_PATH@/assets/images/zzzzzzzzzzzzzzzzzzzzzzzzzfaaaaaaaaaaaaaaa2-viernev-vier-nev-art-face-optical-illusion-1920x3000-800x1250.png",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Still",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/u-1-viernev-vier-nev-art-face-optical-illusion-2000x2000.png",
-                "thumb": "@PROJECT_PATH@/assets/images/u-1-viernev-vier-nev-art-face-optical-illusion-2000x2000-800x800.png",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Still",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-viernev-vier-nev-art-face-optical-illusion-841x1264.png",
-                "thumb": "@PROJECT_PATH@/assets/images/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-viernev-vier-nev-art-face-optical-illusion-841x1264-800x1202.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -1969,19 +1917,6 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/jetruesvdsvddfssdfbgdsv1-viernev-vier-nev-art-face-optical-illusion-1080x1080.png",
                 "thumb": "@PROJECT_PATH@/assets/images/jetruesvdsvddfssdfbgdsv1-viernev-vier-nev-art-face-optical-illusion-1080x1080-800x800.png",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Still",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/gg-viernev-vier-nev-art-face-optical-illusion-2000x2152.png",
-                "thumb": "@PROJECT_PATH@/assets/images/gg-viernev-vier-nev-art-face-optical-illusion-2000x2152-800x861.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -2190,19 +2125,6 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/agg-viernev-vier-nev-art-face-optical-illusion-2000x2627.png",
                 "thumb": "@PROJECT_PATH@/assets/images/agg-viernev-vier-nev-art-face-optical-illusion-2000x2627-800x1051.png",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Still",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/u-2-viernev-vier-nev-art-face-optical-illusion-2000x2828.png",
-                "thumb": "@PROJECT_PATH@/assets/images/u-2-viernev-vier-nev-art-face-optical-illusion-2000x2828-800x1131.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -2626,19 +2548,6 @@
                 "active": false
               },
               {
-                "tags": "Still",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise201987-131432019-8-6-3-45-33.jpg",
-                "playVideo": false,
-                "videoUrl": "https://youtu.be/kzesC2txqYk",
-                "image": "@PROJECT_PATH@/assets/images/1-21-780x1080.png",
-                "thumb": "@PROJECT_PATH@/assets/images/1-21-780x1080-780x1080.png",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
                 "tags": "AR",
                 "videoPreview": "@PROJECT_PATH@/assets/images/mobirise201987-131432019-8-6-3-45-33.jpg",
                 "playVideo": false,
@@ -2691,19 +2600,6 @@
                 "active": false
               },
               {
-                "tags": "Still",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise201987-131432019-8-6-3-45-33.jpg",
-                "playVideo": false,
-                "videoUrl": "https://youtu.be/kzesC2txqYk",
-                "image": "@PROJECT_PATH@/assets/images/1-5-1920x1080.png",
-                "thumb": "@PROJECT_PATH@/assets/images/1-5-1920x1080-800x450.png",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
                 "tags": "Animation, Still",
                 "videoPreview": "@PROJECT_PATH@/assets/images/mobirise201987-131432019-8-6-3-45-33.jpg",
                 "playVideo": false,
@@ -2740,7 +2636,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animation, Still",
@@ -2796,19 +2692,6 @@
               },
               {
                 "tags": "Still",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise201987-131432019-8-6-3-45-33.jpg",
-                "playVideo": false,
-                "videoUrl": "https://youtu.be/kzesC2txqYk",
-                "image": "@PROJECT_PATH@/assets/images/1-15-801x1080.png",
-                "thumb": "@PROJECT_PATH@/assets/images/1-15-801x1080-800x1079.png",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Still",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -2853,19 +2736,6 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/fire-vier-nev-2000x2829.png",
                 "thumb": "@PROJECT_PATH@/assets/images/fire-vier-nev-2000x2829-800x1132.png",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Still",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise201987-131432019-8-6-3-45-33.jpg",
-                "playVideo": false,
-                "videoUrl": "https://youtu.be/kzesC2txqYk",
-                "image": "@PROJECT_PATH@/assets/images/1-2-1920x1080.png",
-                "thumb": "@PROJECT_PATH@/assets/images/1-2-1920x1080-800x450.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -2961,7 +2831,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Still",
