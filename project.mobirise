@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Vier Nev",
-    "currentPage": "amindsang.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -936,12 +936,64 @@
                 "active": false
               },
               {
+                "tags": "Animation",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/25.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/25.gif",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animation",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/23.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/23.gif",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animation",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise201987-131432019-8-6-3-45-33.jpg",
+                "playVideo": false,
+                "videoUrl": "https://youtu.be/kzesC2txqYk",
+                "image": "@PROJECT_PATH@/assets/images/4a.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/4a.gif",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
                 "tags": "Still",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/u-hdfs-viernev-vier-nev-art-face-optical-illusion-2000x2000.png",
                 "thumb": "@PROJECT_PATH@/assets/images/u-hdfs-viernev-vier-nev-art-face-optical-illusion-2000x2000-800x800.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animation",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/16.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/16.gif",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -976,11 +1028,24 @@
               },
               {
                 "tags": "Animation",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise201987-131432019-8-6-3-45-33.jpg",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
-                "videoUrl": "https://youtu.be/kzesC2txqYk",
-                "image": "@PROJECT_PATH@/assets/images/4a.gif",
-                "thumb": "@PROJECT_PATH@/assets/images/4a.gif",
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/26.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/26.gif",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animation",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/13.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/13.gif",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -1222,6 +1287,19 @@
                 "active": false
               },
               {
+                "tags": "Animation",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/7-1.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/7-1.gif",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
                 "tags": "AR, Animation",
                 "videoPreview": "@PROJECT_PATH@/assets/images/mobirise201987-131432019-8-6-3-45-33.jpg",
                 "playVideo": false,
@@ -1241,6 +1319,19 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/u-fsegh-viernev-vier-nev-art-face-optical-illusion-770x1041.png",
                 "thumb": "@PROJECT_PATH@/assets/images/u-fsegh-viernev-vier-nev-art-face-optical-illusion-770x1041-770x1041.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animation",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/1-1.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/1-1.gif",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -2220,7 +2311,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Still",
